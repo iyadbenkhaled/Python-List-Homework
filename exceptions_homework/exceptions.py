@@ -6,4 +6,4 @@ try:
 except TypeError:
     print("Ooops, looks like '{}' and '{}' cannot be added.".format(a, s))
 finally:
-    print("Exption handled succesfully :D")
+    print("Exception handled succesfully :D")
